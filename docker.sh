@@ -9,3 +9,4 @@ echo "secornd"
 echo "vishwak"
 echo "vishwak"
 echo "bala"
+docker info
